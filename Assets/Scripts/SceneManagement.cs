@@ -24,7 +24,7 @@ public class SceneManagement : MonoBehaviour
 
     public void GoToARScene()
     {
-        SceneManager.LoadScene("ARScene");
+        SceneManager.LoadScene("GameScene");
     }
 
     public void ExitGame()
